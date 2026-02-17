@@ -5,7 +5,7 @@ My name is Yucheol Shin. I'm a PhD student at the American Museum of Natural His
 - Ecological niche modeling
 - Herpetology of northeast Asia
 
-My research projects often involve snakes and salamanders
+My research projects often involve snakes and salamanders, with an overarching interest in understanding how organisms (especially herps) respond to major environmental changes across space and time. 
 
 
 
