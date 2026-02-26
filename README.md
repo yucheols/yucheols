@@ -1,7 +1,8 @@
 ### Hello!
 My name is Yucheol Shin. I'm a PhD student at the American Museum of Natural History. I do research on:
 - Island biogeography
-- Genomic evolution in insular snake populations
+- Genome evolution in insular snake populations
+- Herp population genomics & bioegeography
 - Ecological niche modeling
 - Herpetology of northeast Asia
 
