@@ -9,5 +9,4 @@ My name is Yucheol Shin. I'm a PhD student at the American Museum of Natural His
 My research projects often involve snakes and salamanders, with an overarching interest in understanding how organisms (especially herps) respond to major environmental changes across space and time. 
 
 
-
-<img width="476" height="355" alt="ussuriensis" src="https://github.com/user-attachments/assets/875bc328-5893-42b4-a94c-a0e22608bbcd" />
+<img width="6000" height="3375" alt="gloydius" src="https://github.com/user-attachments/assets/dbe4c32f-a444-4cc8-aff5-baedafa8aa7a" />
